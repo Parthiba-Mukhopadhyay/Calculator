@@ -1,0 +1,18 @@
+.hd{
+    text-align: center;
+    background-color: red;
+}
+.bg-red{
+    background: orange;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}

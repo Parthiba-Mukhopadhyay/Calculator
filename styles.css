@@ -1,0 +1,40 @@
+.button{
+    padding: 20px;
+    margin: 6px 6px;
+    border-color: black;
+    border-radius: 8px;
+    font-size: large;
+    cursor: pointer;
+    width:65px
+}
+.button1{
+    padding: 8px;
+    margin: 0px 0px;
+    border-color: black;
+    border-radius: 8px;
+    font-size: large;
+    cursor: pointer;
+    width:58px
+}
+.items-align{
+    align-items: center;
+}
+.eachroww{
+    padding:3px;
+    margin: 0 30px;
+}
+.eachroww1{
+    margin:0 10px;
+}
+
+.input{
+ padding: 13px; 
+ margin: 20px;
+ font-size: 19px;  
+ border-radius: 13px;
+ border-color: black;
+}
+
+.back{
+    background-color: bisque;
+}
